@@ -3,7 +3,7 @@
 
 This project falls under the Data-Knights group. Its purpose is to provide further assessment of patients based on lung CT scans following lung cancer risk evaluation. The project's contributions are twofold: 1. Our innovative model achieved 96% accuracy on the test set, with recall rates approaching or reaching 100% for key diseases. To our knowledge, this model's performance is leading on the datasets used. 2. We provide functionality to generate feature maps for specified CT scans, offering clinicians clinical assessment criteria from five distinct perspectives.
 
-Tec: Swin tran, Pathology CNN, Fusion Network, MLP, AdamW, Mixed-precision training, EMA, Focal Loss, Otsu algorithm, CLAHE, Guided Filter, Frangi Filter, Gabor Filter
+Tec: SwinTran, Pathology CNN, Fusion Network, MLP, AdamW, Mixed-precision Training, EMA, Focal Loss, Otsu Algorithm, CLAHE, Guided Filter, Frangi Filter, Gabor Filter
 
 ## 🛠️ Demo
 We have placed several images demonstrating the model's performance in the [here](https://pan.baidu.com/s/10R7X0PGnYauyZSSdWlBDww?pwd=2025). **Our results can be obtained from here, including metric calculations, confusion matrices, and representative pathological features of three types of diseased lungs and normal lungs.**
